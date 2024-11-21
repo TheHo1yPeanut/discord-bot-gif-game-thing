@@ -2,6 +2,7 @@
 <h2>Commands</h2>
 <ul>
  <li><i>!GIFgame</i> - initializes the game, 30s timeout timer</li>
+ <li><i>!userINFO</i> - returns games played by user, games won by user and user's winrate</li>
 </ul>
 <hr>
 <h2>Description</h2>
