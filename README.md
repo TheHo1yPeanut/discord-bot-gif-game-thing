@@ -12,4 +12,12 @@
 <h3>Please note: this entire repository is part of a school project, this README file aims to describe and explain the code behind the bot.</h3>
 <ul>
  <li><h2>Dependencies</h2></li>
+ <p><ul>
+  <li>discord</li>
+  <li>asyncio</li>
+  <li>aiohttp</li>
+  <li>pymongo</li>
+  <li>BeatifulSoup</li>
+  <li>requests</li>
+ </ul></p>
 </ul>
