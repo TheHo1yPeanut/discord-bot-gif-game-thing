@@ -19,5 +19,12 @@
   <li>pymongo</li>
   <li>BeatifulSoup</li>
   <li>requests</li>
- </ul></p>
+ </ul><br>
+<li>discord</li> is a library that allows for work with discord's bot systems. <i>asyncio</i> is used to manage asyncronous functions which are necessary when dealing with processes that cannot reliably be performed (such as api calls due to server or connection issues). It is used to allow for asyncronous code execution. <i>aiohttp</i> is a library built upon the <i>asyncio</i> library and it allows for asyncronous http request handling. <i>pymongo</i> is the python library for MongoDB services such as reading and writing to a MongoDB cluster. <i>BeatifulSoup</i> makes it possible to fetch and inspect html documents from websites. <i>requests</i> is a simple syncronous api library.
+</p>
+ <hr>
+ <li>Taskflow</li>
+ <p>
+  <ul></ul>
+ </p>
 </ul>
