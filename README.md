@@ -37,5 +37,6 @@
   This is a rather simple function that does nothing other than send a sigle predetermined GIF. This was used in order to test the ability of the bot to send gifs. I never removed the command, because i didn't feel like it. The GIF that gets sent is the following: "https://tenor.com/view/dr-house-dr-gregory-house-dr-gregory-gif-13514172004559334125". 
  </p>
  <hr>
- <li><h2>Vulnarabilities</h2></li>
+ <li><h2>Vulnerabilities</h2></li>
+ <p>The bot handles most exceptions well without crashes, however there are some things that can be improved on. Firstly the random word that is generated can simply not exist in the search on tenor.com. This leads to no response from the bot and can leave the user confused. Secondly the bot relies on two different websites to function, if any of these go offline or cease to function the bot practically becomes useless (apart from the !userINFO which has almost certani 100% uptime thanks to the databse being hosted by me personally).</p>
 </ul>
