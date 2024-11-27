@@ -39,4 +39,7 @@
  <hr>
  <li><h2>Vulnerabilities</h2></li>
  <p>The bot handles most exceptions well without crashes, however there are some things that can be improved on. Firstly the random word that is generated can simply not exist in the search on tenor.com. This leads to no response from the bot and can leave the user confused. Secondly the bot relies on two different websites to function, if any of these go offline or cease to function the bot practically becomes useless (apart from the !userINFO which has almost certani 100% uptime thanks to the databse being hosted by me personally).</p>
+ <hr>
+ <li><h2>Get it for yourself</h2></li>
+ <p>Add the bot to your own server: https://discord.com/oauth2/authorize?client_id=874011077166374962&permissions=0&integration_type=0&scope=bot</p>
 </ul>
